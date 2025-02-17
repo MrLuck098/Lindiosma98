@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fatlind Osmani / @Lindiosma98
+- 👋 Hi, I’m Fatlind Osmani / @MrLuck098
 - 👀 I’m interested Software Engineering and being able to create software that is used for fun or to solve problems
 - 🌱 I’m currently learning Computer Science at Missouri University of Science and Technology to lead me to Software Engineering in the future
 - 💞️ I’m looking to collaborate on ---
